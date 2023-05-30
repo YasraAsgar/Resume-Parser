@@ -1,5 +1,24 @@
-In this AI to find the correct canditdate for the job by using NLTK and some words.
+Tasks 1 :
+      In this AI to find the correct canditdate for the job by using NLTK and some words.
       
-          For this you need to install nltk. 
+                   For this you need to install nltk. 
 
-                !pip install nltk
+                          !pip install nltk
+                          
+                          
+         Code for the tasks 1 is named as tasks1.py
+Tasks 2: 
+      In this task the AI must correct the word or give the word which is nearest to it.
+                    For this you need to install pyspellchecker==0.5.6
+                          !pip install pyspellchecker==0.5.6
+                                                    
+                          
+         Code for the tasks 2 is named as tasks2.py
+Tasks 3:
+      To create a translator AI which translate between any two languages. Its upon you to choose language.
+                  For this you need to install googletrans==4.0.0-rc1
+                  
+                            !pip install googletrans==4.0.0-rc1
+                                                      
+                          
+         Code for the tasks 3 is named as tasks3.py
