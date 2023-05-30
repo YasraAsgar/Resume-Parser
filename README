@@ -1,0 +1,5 @@
+In this AI to find the correct canditdate for the job by using NLTK and some words.
+      
+          For this you need to install nltk. 
+
+                !pip install nltk
